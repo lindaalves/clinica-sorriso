@@ -1,4 +1,4 @@
-# Site da Clínica Odontológica
+# Site Clínica Odontológica
 
 Este é o mini-site moderno, funcional e responsivo para clínicas de dentista, desenvolvido com HTML, CSS e JavaScript.
 
